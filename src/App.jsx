@@ -196,7 +196,7 @@ export default function App() {
             <div className="about-img-wrap">
               <img
                 className="about-img"
-                src="/img/avt.jpg"
+                src="/img/avt.png"
                 alt="Filmmaker portrait"
               />
               <div className="about-img-label">
